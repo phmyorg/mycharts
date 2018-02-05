@@ -1,21 +1,48 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2018-02-04T23:16:57.430342618-08:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://phmyorg.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-04T23:08:52.157998392-08:00
+    created: 2018-02-04T23:16:57.430552009-08:00
     description: A Helm chart for Kubernetes
     digest: 3fd3758ac04c5a31027a37ff62382a6a65d6ed115d973e5e108397760da87cc6
     name: notificationchart
     urls:
     - https://phmyorg.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
+  portfoliochart:
+  - apiVersion: v1
+    created: 2018-02-04T23:16:57.431042731-08:00
+    description: A Helm chart for Kubernetes
+    digest: f0e14155faf4fe0351ffaef89ddaf2e63c7d60e5fd15d63e89ff7151f0e66f2c
+    name: portfoliochart
+    urls:
+    - https://phmyorg.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2018-02-04T23:16:57.431258983-08:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://phmyorg.github.io/mycharts/stockquotechart-0.1.0.tgz
+    version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-02-04T23:08:52.15868704-08:00
+    created: 2018-02-04T23:16:57.432081247-08:00
     description: A Helm chart for Kubernetes
-    digest: 69a74bcd3f6cd45d75ee4b8eeb78b0e12bd8497be4c92b7e0e860128400f80d3
+    digest: b9b55d84d60af060d1035e65db2f8f87ee34681ad56f2e3ded59799e74c6ee47
     name: traderchart
     urls:
     - https://phmyorg.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-04T23:08:52.157627062-08:00
+generated: 2018-02-04T23:16:57.430006539-08:00
